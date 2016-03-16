@@ -18,6 +18,6 @@ disappears. :
     This is a preformatted
     code block. 
  
-This is a normal paragraph: 
+This is a normal paragraph:  
     This is a preformatted
     code block.
