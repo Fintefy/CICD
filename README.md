@@ -17,4 +17,11 @@ Architecture designs and evolving
   sonar.host.url=http://localhost:9000 and db
   * SONAR_RUNNER_HOME=C:\java\sonar-scanner-2.5
   * path = C:\java\sonar-scanner-2.5\bin
-  * go to folder add sonar-project.properties and run sonar-runner
+  * go to folder add sonar-project.properties and run sonar-runner  
+4. Config sonar-project.properties  
+sonar.projectKey=ionic  
+sonar.projectName=JavaScript HTML CSS:: SonarQube Scanner 
+sonar.projectVersion=1.1.1 
+sonar.sourceEncoding=UTF-8 
+sonar.sources=www 
+sonar.exclusions=www/lib/** 
